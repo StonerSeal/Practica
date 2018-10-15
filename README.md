@@ -3,6 +3,7 @@ A program intended for rehersal of things in school
 
 # Download
 [Latest Version](https://github.com/StonerSeal/Practica/releases/latest)
+
 [Browse Versions](https://github.com/StonerSeal/Practica/releases)
 
 ## ***PRACTICA*** *Version Log*
