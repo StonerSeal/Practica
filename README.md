@@ -1,7 +1,11 @@
 # Practica
 A program intended for rehersal of things in school
 
-# ***PRACTICA*** *Version Log*
+# Download
+[Latest Version](https://github.com/StonerSeal/Practica/releases/latest)
+[Browse Versions](https://github.com/StonerSeal/Practica/releases)
+
+## ***PRACTICA*** *Version Log*
 
 1.0.1.0 
 - Added Question Column selection, 
