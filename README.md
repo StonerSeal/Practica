@@ -11,4 +11,4 @@ Do you have any suggestions for Practica? Open an Issue and tell me about it!
 ## FAQ
 **Q:** How do I download Practica?
 
-**A:** Find the version you are looking for, like *Latest Version* under Download. Then under *Assets* you can see corresponding *Practica.exe* file
+**A:** Find the version you are looking for, like *Latest Version* under Download. Then under *Assets* you can see the corresponding *Practica.exe* file.
