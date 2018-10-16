@@ -8,7 +8,4 @@ Do you have any suggestions for Practica? Open an Issue and tell me about it!
 
 [Browse Versions](https://github.com/StonerSeal/Practica/releases)
 
-## FAQ
-**Q:** How do I download Practica?
-
-**A:** Find the version you are looking for, like *Latest Version* under Download. Then under *Assets* you can see the corresponding *Practica.exe* file.
+**How to install:** Find the version you are looking for, like *Latest Version*. Then under *Assets* you can see the corresponding *Practica.exe* file. Press on the Practica.exe link and it will begin to download, and when the download is done its ready to launch.
